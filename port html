@@ -77,7 +77,7 @@
       <div class="section-container">
         <div class="section__pic-container">
           <img
-            src="yel.JPG"
+            src="anu.jpg"
             alt="Profile picture"
             class="about-pic"
           />
@@ -237,7 +237,7 @@
           <div class="details-container color-container">
             <div class="article-container">
               <img
-                src="shot.png"
+                src="pro2.png"
                 alt="Project 2"
                 class="project-img"
               />
